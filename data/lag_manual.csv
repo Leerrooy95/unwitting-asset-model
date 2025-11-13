@@ -1,0 +1,9 @@
+crisis_date,crisis_event,next_rescue_date,next_rescue_event,lag_months
+1990-06-01,Trump Taj Mahal bankruptcy filing,1990-11-01,Hyatt partnership extension,5.0
+1991-04-01,Plaza Hotel debt crisis,1992-03-01,Bank loan restructuring,11.0
+1995-10-01,Casino bankruptcies,1996-06-01,Public stock offering,8.0
+2004-04-01,Trump Hotels bankruptcy,2005-02-01,IPO on NASDAQ,10.0
+2008-11-01,Financial crisis hits,2009-06-01,Deutsche Bank loan,7.0
+2016-06-01,Campaign funding crisis,2016-12-01,Rybolovlev mansion sale,6.0
+2020-03-01,COVID hotel collapse,2020-09-01,SPAC merger,6.0
+2022-04-01,Truth Social funding crisis,2022-10-01,Gulf investment,6.0
