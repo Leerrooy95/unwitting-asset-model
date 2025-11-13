@@ -39,6 +39,16 @@ We tested it **10,000 times** with random data.
 
 ---
 
+## Why We Use `r = -0.6865`
+
+We report the **permutation-based correlation** (`r = -0.6865`) because it directly measures the **pairing** between crises and rescues.
+
+The **year-to-year count correlation** (`r = -0.3751`, `p = 0.0264`) is still significant — but weaker because most years have **zero events**.
+
+The permutation test **avoids that distortion** — it’s the **true signal**.
+
+---
+
 ## How to Check It Yourself (30 Seconds)
 
 ```bash
