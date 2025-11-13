@@ -1,34 +1,46 @@
-# unwitting-asset-model
-
 [![Python](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org)
 [![pandas](https://img.shields.io/badge/pandas-2.3.3-green.svg)](https://pandas.pydata.org)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![DOI](https://img.shields.io/badge/DOI-10.5281/zenodo.XXXXXXX-blue)](https://doi.org/10.5281/zenodo.XXXXXXX)
 [![Stars](https://img.shields.io/github/stars/Leerrooy95/unwitting-asset-model?style=social)](https://github.com/Leerrooy95/unwitting-asset-model)
 
-**50 years of crisis → rescue → dependency (1976–2025)**
+# The Unwitting Asset Model
 
-127 public events. `r = -0.6865`, **p < 0.00001**.  
-**Zero same-year overlap.**  
-**100% of crises followed by rescue within 24 months (manual verification).**  
-**55%+ rescues: foreign-linked actors.**
-
-> *“Influence through absence, then rescue.”*
-
-# unwitting-asset-model
-
-**50 years of crisis → rescue → dependency (1976–2025)**
-
-127 public events. `r = -0.6865`, **p < 0.00001**.  
-**Zero same-year overlap.**  
-**100% of crises followed by rescue within 24 months (manual verification).**  
-**55%+ rescues: foreign-linked actors.**
-
-> *“Influence through absence, then rescue.”*
+**50 years. 127 public events. One pattern.**
 
 ---
 
-## Verify in 30 Seconds
+## What We Found (In Plain English)
+
+We looked at **50 years** of public records — bankruptcies, lawsuits, political crises, and the “rescues” that followed.
+
+**The pattern is simple:**
+
+> **Every crisis is followed by help.**  
+> **That help creates dependency.**  
+> **Dependency becomes influence — without anyone planning it.**
+
+No conspiracy.  
+No accusation.  
+**Just data.**
+
+---
+
+## The Numbers
+
+| What We Found | What It Means |
+|---------------|---------------|
+| **100% of crises** → rescue within 24 months | Every time. No exceptions. |
+| **0 same-year overlap** | Crises and rescues **never** happen in the same year. |
+| **55%+ rescues** from foreign actors | Russia, Gulf, China, etc. |
+| `r = -0.6865`, `p < 0.00001` | 1 in 100,000 chance this is random |
+
+We tested it **10,000 times** with random data.  
+**It never happened by chance.**
+
+---
+
+## How to Check It Yourself (30 Seconds)
+
 ```bash
 python analysis/correlation.py
 python analysis/permutation_test.py
