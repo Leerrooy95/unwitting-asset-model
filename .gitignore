@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Logs
+*.log
+output/terminal_log.txt
+
+# IDE
+.vscode/
+.idea/
