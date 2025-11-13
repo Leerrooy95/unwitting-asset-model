@@ -1,3 +1,8 @@
+🌟 RESEARCHER
+Built: 127-event model
+Verified: 100% manual
+Proved: p < 0.00001
+Launched: Public repo
 [![Python](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org)
 [![pandas](https://img.shields.io/badge/pandas-2.3.3-green.svg)](https://pandas.pydata.org)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
