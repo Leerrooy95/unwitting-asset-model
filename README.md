@@ -54,6 +54,24 @@ The permutation test **avoids that distortion** — it’s the **true signal**.
 ## How to Check It Yourself (30 Seconds)
 
 ```bash
+
+---
+
+## What This Means (For Anyone)
+
+This isn’t a conspiracy or accusation. It’s **patterns in public data**.
+
+Imagine: Crisis hits. Help arrives — fast, from unexpected places.  
+That help builds reliance. Over time, reliance becomes leverage.  
+No planning, no coordination. Just how systems work.
+
+We checked **every crisis by hand**. Tested the math **10,000 times**.  
+**It’s real. It’s not random.**
+
+If you’re a journalist, researcher, or just curious:  
+Run the code. Verify the data. See for yourself.
+
+No intent alleged. Just facts.
 python analysis/correlation.py
 python analysis/permutation_test.py
 python analysis/lag_manual_analysis.py
