@@ -9,8 +9,6 @@
 
 **50 years. 127 public events. One pattern.**
 
----
-
 ## What We Found (In Plain English)
 
 We looked at **50 years** of public records — bankruptcies, lawsuits, political crises, and the “rescues” that followed.
@@ -25,8 +23,6 @@ No conspiracy.
 No accusation.  
 **Just data.**
 
----
-
 ## The Numbers
 
 | What We Found | What It Means |
@@ -39,26 +35,6 @@ No accusation.
 We tested it **10,000 times** with random data.  
 **It never happened by chance.**
 
----
-
----
-
-## What This Means (For Anyone)
-
-This isn’t a conspiracy or accusation. It’s **patterns in public data**.
-
-Imagine: Crisis hits. Help arrives — fast, from unexpected places.  
-That help builds reliance. Over time, reliance becomes leverage.  
-No planning, no coordination. Just how systems work.
-
-We checked **every crisis by hand**. Tested the math **10,000 times**.  
-**It’s real. It’s not random.**
-
-If you’re a journalist, researcher, or just curious:  
-Run the code. Verify the data. See for yourself.
-
-No intent alleged. Just facts.
-
 ## Why We Use `r = -0.6865`
 
 We report the **permutation-based correlation** (`r = -0.6865`) because it directly measures the **pairing** between crises and rescues.
@@ -67,10 +43,9 @@ The **year-to-year count correlation** (`r = -0.3751`, `p = 0.0264`) is still si
 
 The permutation test **avoids that distortion** — it’s the **true signal**.
 
----
-
 ## How to Check It Yourself (30 Seconds)
 
 ```bash
-
----
+python analysis/correlation.py
+python analysis/permutation_test.py
+python analysis/lag_manual_analysis.py
