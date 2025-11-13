@@ -1,3 +1,5 @@
+![Unwitting Asset Model](https://img.shields.io/badge/Unwitting%20Asset%20Model-100%25%20Verified-2ea44f?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMkwyIDEybDIwIDBsLTggLTEwIi8+PC9zdmc+)
+
 [![Python](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org)
 [![pandas](https://img.shields.io/badge/pandas-2.3.3-green.svg)](https://pandas.pydata.org)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
